@@ -38,7 +38,8 @@ dependencies {
     //머스타치
     implementation('org.springframework.boot:spring-boot-starter-mustache')
 //
-//    implementation('org.springframework.boot:spring-boot-starter-oauth2-client')
+    //oauth2
+    implementation('org.springframework.boot:spring-boot-starter-oauth2-client')
 //    implementation('org.springframework.session:spring-session-jdbc')
 //
 //    implementation("org.mariadb.jdbc:mariadb-java-client")
